@@ -2,4 +2,4 @@
 
 
 Bonjour tout le monde,
-je suis actuellement en formation e tant que developpeur web à la Wild Code School.
+je suis actuellement en formation en tant que developpeur web à la Wild Code School.
